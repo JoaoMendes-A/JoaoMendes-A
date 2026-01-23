@@ -5,7 +5,7 @@ Sou desenvolvedor e entusiasta de tecnologia, programação e cibersegurança, c
 
 ---
 
-## Tecnologias que uso
+## Tecnologias que uso 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
