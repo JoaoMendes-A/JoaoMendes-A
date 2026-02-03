@@ -15,3 +15,5 @@ Sou desenvolvedor e entusiasta de tecnologia, programação e cibersegurança, c
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+
