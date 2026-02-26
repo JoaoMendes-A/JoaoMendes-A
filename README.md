@@ -1,7 +1,7 @@
 # Olá, eu sou João Mendes 
 
 Bem-vindo ao meu GitHub!  
-Sou desenvolvedor e entusiasta de tecnologia, programação e cibersegurança, criando soluções e resolvendo desafios.
+Sou desenvolvedor e entusiasta de tecnologia, programação e cibersegurança.
 
 ---
 
