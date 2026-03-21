@@ -1,11 +1,10 @@
 # João Mendes
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7A3FFF&size=26&center=true&vCenter=true&width=700&lines=Backend+Developer;APIs+REST+com+.NET;Arquitetura+de+Sistemas;Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7A3FFF&size=26&center=true&vCenter=true&width=700&duration=1800&pause=400&speed=80&lines=Backend+Developer;APIs+REST+com+.NET;Arquitetura+de+Sistemas;Cybersecurity+Enthusiast" />
 </p>
 
 ---
-
 ## Sobre mim
 
 Desenvolvedor backend com foco em APIs e arquitetura de sistemas, atualmente cursando Ciência da Computação.  
