@@ -10,7 +10,6 @@
 Desenvolvedor backend com foco em APIs e arquitetura de sistemas, atualmente cursando Ciência da Computação.  
 Interesse sólido em segurança da informação e desenvolvimento de aplicações seguras.
 
-- 19 anos  
 - 3º semestre de Ciência da Computação  
 - Experiência com APIs REST utilizando .NET  
 - Interesse em cibersegurança e infraestrutura  
